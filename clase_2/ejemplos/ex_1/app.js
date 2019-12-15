@@ -1,3 +1,5 @@
+//debugger para pausar
+
 // Document
 var val;
 val = document.querySelectorAll('li');
